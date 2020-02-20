@@ -1,9 +1,0 @@
-D:\Windows-Time-Tracker\Windows Time Tracker\bin\Debug\Windows Time Tracker.exe.config
-D:\Windows-Time-Tracker\Windows Time Tracker\bin\Debug\Windows Time Tracker.exe
-D:\Windows-Time-Tracker\Windows Time Tracker\bin\Debug\Windows Time Tracker.pdb
-D:\Windows-Time-Tracker\Windows Time Tracker\obj\Debug\Windows Time Tracker.csprojAssemblyReference.cache
-D:\Windows-Time-Tracker\Windows Time Tracker\obj\Debug\Windows_Time_Tracker.Properties.Resources.resources
-D:\Windows-Time-Tracker\Windows Time Tracker\obj\Debug\Windows Time Tracker.csproj.GenerateResource.cache
-D:\Windows-Time-Tracker\Windows Time Tracker\obj\Debug\Windows Time Tracker.exe
-D:\Windows-Time-Tracker\Windows Time Tracker\obj\Debug\Windows Time Tracker.pdb
-D:\Windows-Time-Tracker\Windows Time Tracker\obj\Debug\Windows_Time_Tracker.Windows_Time_Tracker.resources
