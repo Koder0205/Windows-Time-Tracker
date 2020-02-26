@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTimeTracker", "WinTimeTracker\WinTimeTracker.csproj", "{FA95B587-29F9-467D-9A0F-ACB3A227108A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTimeTracker", "WinTimeTracker.csproj", "{74B70137-0211-4DA2-A6DE-9B2D996A0E6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA95B587-29F9-467D-9A0F-ACB3A227108A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA95B587-29F9-467D-9A0F-ACB3A227108A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA95B587-29F9-467D-9A0F-ACB3A227108A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA95B587-29F9-467D-9A0F-ACB3A227108A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B70137-0211-4DA2-A6DE-9B2D996A0E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B70137-0211-4DA2-A6DE-9B2D996A0E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B70137-0211-4DA2-A6DE-9B2D996A0E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B70137-0211-4DA2-A6DE-9B2D996A0E6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {249AD068-387C-4894-A1DE-6E2266BA36C8}
+		SolutionGuid = {5D40514D-CE3D-4832-B1DC-8FE870202278}
 	EndGlobalSection
 EndGlobal
