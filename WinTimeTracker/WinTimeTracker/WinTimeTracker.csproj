@@ -90,32 +90,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\NotoSans-Bold.ttf" />
     <None Include="Resources\white_delete_32px.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\add_new_32px.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\exit.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\clock_30px.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\circle 255 112 130.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\filled_circle_32px.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\filled_circle_32px 2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\filled_circle_32px 3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\filled_circle_32px 4.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
