@@ -1,0 +1,15 @@
+D:\Github\Windows-Time-Tracker\WinTimeTracker\bin\Debug\WinTimeTracker.exe.config
+D:\Github\Windows-Time-Tracker\WinTimeTracker\bin\Debug\WinTimeTracker.exe
+D:\Github\Windows-Time-Tracker\WinTimeTracker\bin\Debug\WinTimeTracker.pdb
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker.csprojAssemblyReference.cache
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\MainWindow.g.cs
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\App.g.cs
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker_MarkupCompile.cache
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker_MarkupCompile.lref
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\MainWindow.baml
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker.g.resources
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker.Properties.Resources.resources
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker.csproj.GenerateResource.cache
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker.csproj.CoreCompileInputs.cache
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker.exe
+D:\Github\Windows-Time-Tracker\WinTimeTracker\obj\Debug\WinTimeTracker.pdb
