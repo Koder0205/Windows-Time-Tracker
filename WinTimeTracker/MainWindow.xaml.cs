@@ -29,12 +29,35 @@ namespace WinTimeTracker
 
         private void Exit(object sender, MouseButtonEventArgs e)
         {
-
+            this.Close();
         }
         
         private void Drag(object sender, MouseButtonEventArgs e)
         {
+            Cursor = Cursors.SizeAll;
             this.DragMove();
+            Cursor = Cursors.Arrow;
         }
+
+        private void ToGithub(object sender, MouseButtonEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/Koder0205/Windows-Time-Tracker");
+        }
+
+        private void ToBlog(object sender, MouseButtonEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://blog.koderpark.dev");
+        }
+
+        private void CursorChangeStart(object sender, MouseEventArgs e)
+        {
+            Cursor = Cursors.Hand;
+        }
+
+        private void CursorChangeEnd(object sender, MouseEventArgs e)
+        {
+            Cursor = Cursors.Arrow;
+        }
+
     }
 }

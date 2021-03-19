@@ -100,5 +100,11 @@
   <ItemGroup>
     <Resource Include="Asset\clock.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Asset\cancel.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
